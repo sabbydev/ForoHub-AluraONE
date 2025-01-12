@@ -134,4 +134,4 @@ Una vez que obtengas el token JWT, deberás incluirlo en el encabezado de todas 
 
 
 # ¡Y LISTO!
-## ¡Ya puedes interactuar con la API ForoHub para realizar las operaciones disponibles utilizando Insomnia o Postman!
+### ¡Ya puedes interactuar con la API ForoHub para realizar las operaciones disponibles utilizando Insomnia o Postman!
